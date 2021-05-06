@@ -6,7 +6,7 @@
 1. Open Your Google Gmail, and click on setting button.
 
 2. Click on `See all settings`.
-    <img src="img/step1.png" title="step1">
+    <img src="img/step1.png" title="step1" width="100%">
 
 3. Click on `Forwarding and POP/IMAP`.
     <img src="img/step2.png" title="step2">
